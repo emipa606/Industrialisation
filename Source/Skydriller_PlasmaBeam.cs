@@ -65,7 +65,7 @@ namespace Industrialisation
 
         public override void WeatherEventDraw()
         {
-            Graphics.DrawMesh(this.boltMesh, this.strikeLoc.ToVector3ShiftedWithAltitude(AltitudeLayer.WorldDataOverlay), Quaternion.identity, FadedMaterialPool.FadedVersionOf(Skydriller_PlasmaBeam.PlasmaBeamMat, this.PBBrightness), 0);
+            Graphics.DrawMesh(this.boltMesh, this.strikeLoc.ToVector3ShiftedWithAltitude(AltitudeLayer.MapDataOverlay), Quaternion.identity, FadedMaterialPool.FadedVersionOf(Skydriller_PlasmaBeam.PlasmaBeamMat, this.PBBrightness), 0);
         }
     }
 }

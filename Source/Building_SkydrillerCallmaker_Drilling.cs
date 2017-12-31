@@ -12,6 +12,7 @@ namespace Industrialisation
     {
         private int plasmaTick = 4;
         private int explosionTick = 4;
+        private int plasmaDamage = 50;
         public Skydriller_PlasmaBeam skydrillerEffect;
         private static readonly SoundDef PlasmaDrill = SoundDef.Named("Ind_PlasmaDrill");
         private static readonly SoundDef PlasmaDrillFire = SoundDef.Named("Ind_PlasmaDrillFire");
@@ -37,7 +38,7 @@ namespace Industrialisation
             if (this.explosionTick == 0)
             {
                 MoteMaker.MakeStaticMote(base.Position, base.Map, ThingDefOf.Mote_ShotFlash, 9f);
-                GenExplosion.DoExplosion(base.Position, base.Map, 1.5f, DamageDefOf.Flame, (Thing)null, PlasmaDrill, (ThingDef)null);
+                GenExplosion.DoExplosion(base.Position, base.Map, 1.5f, DamageDefOf.Flame, (Thing)null, plasmaDamage, PlasmaDrill, (ThingDef)null);
                 this.plasmaTick = 4;
             }
         }
@@ -49,7 +50,7 @@ namespace Industrialisation
             base.Destroy(mode);
             SoundStarter.PlayOneShot(PlasmaDrillFire, new TargetInfo(position, map, false));
             GenSpawn.Spawn(ThingDef.Named("Ind_MiningHole"), position, map);
-            Messages.Message("Ind_SkyDriller_Completed".Translate(), MessageSound.Standard);
+            Messages.Message("Ind_SkyDriller_Completed".Translate(), MessageTypeDefOf.PositiveEvent);
         }
     }
 }

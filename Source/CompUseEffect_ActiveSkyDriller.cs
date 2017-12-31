@@ -13,7 +13,7 @@ namespace Industrialisation
         {
             base.DoEffect(usedBy);
             GenSpawn.Spawn(ThingDef.Named("Ind_SkydrillerCallmaker_Calling"), this.parent.Position, this.parent.Map);
-            Messages.Message("Ind_SkyDriller_Calling".Translate(), MessageSound.Standard);
+            Messages.Message("Ind_SkyDriller_Calling".Translate(), MessageTypeDefOf.PositiveEvent);
         }
     }
 }
