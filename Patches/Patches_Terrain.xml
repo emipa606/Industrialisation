@@ -2,7 +2,7 @@
 <Patch>
 
   <Operation Class="PatchOperationReplace">
-    <xpath>/TerrainDefs/TerrainDef[defName = "Concrete"]/CostList</xpath>
+    <xpath>/Defs/TerrainDef[defName = "Concrete"]/costList</xpath>
     <value>
         <costList>
           <Ind_Concrete>5</Ind_Concrete>
