@@ -162,10 +162,6 @@
                 <explosiveRadius>8</explosiveRadius>
                 <explosiveDamageType>Bomb</explosiveDamageType>
             </li>
-            <li Class="CompProperties_Explosive">
-                <explosiveRadius>12</explosiveRadius>
-                <explosiveDamageType>Flame</explosiveDamageType>
-            </li>
             <li Class="CompProperties_Power">
                 <compClass>CompPowerPlantSteam</compClass>
                 <basePowerConsumption>-20000</basePowerConsumption>

@@ -15,7 +15,7 @@ namespace Industrialisation
             var map = base.Map;
             base.Destroy(mode);
             GenSpawn.Spawn(ThingDef.Named("Ind_SkydrillerCallmaker_Drilling"), position, map);
-            Messages.Message("Ind_SkyDriller_StartDrilling".Translate(), MessageSound.SeriousAlert);
+            Messages.Message("Ind_SkyDriller_StartDrilling".Translate(), MessageTypeDefOf.ThreatSmall);
         }
     }
 }

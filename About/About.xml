@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>Industrialisation</name>
-	<author>eatKenny, duduluu</author>
-	<url>http://rimworld-zh.com/</url>
+	<author>eatKenny, duduluu, TrashedDT</author>
 	<targetVersion>0.18.1722</targetVersion>
 	<description>Adds some heavy industries to the game.
 
-Original Author: eatKenny  
-Current Maintainer: duduluu  
+Original Author(s): eatKenny, duduluu
+Current Maintainer: TrashedDT
 
 &lt;color=#ffee58&gt;&lt;b&gt;Compatible with existing save and other mods, enjoy it.&lt;/b&gt;&lt;/color&gt;
 

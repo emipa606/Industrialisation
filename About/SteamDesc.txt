@@ -1,7 +1,7 @@
 Adds some heavy industries to the game.
 
-Original Author: eatKenny  
-Current Maintainer: duduluu  
+Original Author(s): eatKenny, duduluu
+Current Maintainer: TrashedDT
 
 [h1][b]Compatible with existing save and other mods, enjoy it.[/b][/h1]
 
@@ -35,4 +35,7 @@ Current Maintainer: duduluu
  - Artwork: CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
 
 [h1][b]Non-steam and old version download[/b][/h1]
+[h2][b]B18+[/b][/h2]
+https://github.com/trasheddt/eatKenny-Industrialisation/releases
+[h2][b]Pre B18[/b][/h2]
 https://github.com/RimWorld-zh/eatKenny-Industrialisation/releases

@@ -194,8 +194,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineSteel</defName>
-        <label>minig deep steel</label>
-        <description>Minig deep steel.</description>
+        <label>mine deep steel</label>
+        <description>Mine deep steel.</description>
         <workAmount>1500</workAmount>
         <products>
             <Steel>15</Steel>
@@ -204,8 +204,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineCopper</defName>
-        <label>minig deep copper</label>
-        <description>Minig deep copper.</description>
+        <label>mine deep copper</label>
+        <description>Mine deep copper.</description>
         <workAmount>2000</workAmount>
         <products>
             <Ind_Copper>15</Ind_Copper>
@@ -214,8 +214,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineAluminium</defName>
-        <label>minig deep aluminium</label>
-        <description>Minig deep aluminium.</description>
+        <label>mine deep aluminium</label>
+        <description>Mine deep aluminium.</description>
         <workAmount>2500</workAmount>
         <products>
             <Ind_Aluminium>15</Ind_Aluminium>
@@ -224,8 +224,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMinePlasteel</defName>
-        <label>minig deep plasteel</label>
-        <description>Minig deep plasteel.</description>
+        <label>mine deep plasteel</label>
+        <description>Mine deep plasteel.</description>
         <workAmount>4000</workAmount>
         <products>
             <Plasteel>10</Plasteel>
@@ -234,8 +234,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineSilver</defName>
-        <label>minig deep silver</label>
-        <description>Minig deep silver.</description>
+        <label>mine deep silver</label>
+        <description>Mine deep silver.</description>
         <workAmount>1500</workAmount>
         <products>
             <Silver>25</Silver>
@@ -244,8 +244,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineGold</defName>
-        <label>minig deep gold</label>
-        <description>Minig deep gold.</description>
+        <label>mine deep gold</label>
+        <description>Mine deep gold.</description>
         <workAmount>4000</workAmount>
         <products>
             <Gold>10</Gold>
@@ -254,8 +254,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineUranium</defName>
-        <label>minig deep uranium</label>
-        <description>Minig deep uranium.</description>
+        <label>mine deep uranium</label>
+        <description>Mine deep uranium.</description>
         <workAmount>4000</workAmount>
         <products>
             <Uranium>25</Uranium>
@@ -266,8 +266,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineJade</defName>
-        <label>minig deep jade</label>
-        <description>Minig deep jade.</description>
+        <label>mine deep jade</label>
+        <description>Mine deep jade.</description>
         <workAmount>4000</workAmount>
         <products>
             <Jade>15</Jade>
@@ -276,8 +276,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkSandstone</defName>
-        <label>minig deep sandstone chunk</label>
-        <description>Minig deep sandstone chunk.</description>
+        <label>mine deep sandstone chunk</label>
+        <description>Mine deep sandstone chunk.</description>
         <workAmount>800</workAmount>
         <products>
             <ChunkSandstone>1</ChunkSandstone>
@@ -286,8 +286,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkGranite</defName>
-        <label>minig deep granite chunk</label>
-        <description>Minig deep granite chunk.</description>
+        <label>mine deep granite chunk</label>
+        <description>Mine deep granite chunk.</description>
         <workAmount>1800</workAmount>
         <products>
             <ChunkGranite>1</ChunkGranite>
@@ -296,8 +296,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkLimestone</defName>
-        <label>minig deep limestone chunk</label>
-        <description>Minig deep limestone chunk.</description>
+        <label>mine deep limestone chunk</label>
+        <description>Mine deep limestone chunk.</description>
         <workAmount>1400</workAmount>
         <products>
             <ChunkLimestone>1</ChunkLimestone>
@@ -306,8 +306,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkSlate</defName>
-        <label>minig deep slate chunk</label>
-        <description>Minig deep slate chunk.</description>
+        <label>mine deep slate chunk</label>
+        <description>Mine deep slate chunk.</description>
         <workAmount>1000</workAmount>
         <products>
             <ChunkSlate>1</ChunkSlate>
@@ -316,8 +316,8 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkMarble</defName>
-        <label>minig deep marble chunk</label>
-        <description>Minig deep marble chunk.</description>
+        <label>mine deep marble chunk</label>
+        <description>Mine deep marble chunk.</description>
         <workAmount>800</workAmount>
         <products>
             <ChunkMarble>1</ChunkMarble>
