@@ -1,8 +1,8 @@
 # Industrialisation
 eatKenny's Industrialisation mod, a RimWorld mod.
 
-Original Author: eatKenny  
-Current Maintainer: duduluu  
+Original Author: eatKenny, duduluu 
+Current Maintainer: TrashedDT
 
 ### Compatible with existing save and other mods, enjoy it.
 

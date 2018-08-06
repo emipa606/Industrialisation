@@ -18,13 +18,13 @@ namespace Industrialisation
         private Mesh boltMesh;
         private static readonly Material PlasmaBeamMat = MaterialPool.MatFrom("Ind/SkyDriller/PlasmaBeam");
         private int age;
-        private int duration;
+        private static int duration = 5;
 
         public override bool Expired
         {
             get
             {
-                return this.age > this.duration;
+                return this.age > duration;
             }
         }
 
@@ -35,7 +35,7 @@ namespace Industrialisation
          
         public Skydriller_PlasmaBeam(Map map) : base(map)
         {
-            this.duration = 16;
+            //duration = 5;  // 16
         }
 
         public Skydriller_PlasmaBeam(Map map, IntVec3 forcedStrikeLoc) : this(map)
@@ -59,7 +59,7 @@ namespace Industrialisation
                 if (this.age <= 2)
                     return (float)this.age / 2f;
                 else
-                    return (float)(1.0 - (double)this.age / (double)this.duration);
+                    return (float)(1.0 - (double)this.age / (double)duration);
             }
         }
 

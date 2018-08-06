@@ -66,7 +66,7 @@
                 </countRange>
             </li>
             <li Class="StockGenerator_SingleDef">
-                <thingDef>Medicine</thingDef>
+                <thingDef>MedicineIndustrial</thingDef>
                 <price>Expensive</price>
                 <countRange>
                     <min>10</min>
@@ -74,10 +74,18 @@
                 </countRange>
             </li>
             <li Class="StockGenerator_SingleDef">
+                <thingDef>MedicineUltratech</thingDef>
+                <price>Expensive</price>
+                <countRange>
+                    <min>5</min>
+                    <max>10</max>
+                </countRange>
+            </li>
+            <li Class="StockGenerator_SingleDef">
                 <thingDef>Ind_SkydrillerCallmaker</thingDef>
                 <countRange>
                     <min>1</min>
-                    <max>1</max>
+                    <max>2</max>
                 </countRange>
             </li>
         </stockGenerators>

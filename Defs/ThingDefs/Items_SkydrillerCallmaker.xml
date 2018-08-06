@@ -4,7 +4,7 @@
     <ThingDef>
         <defName>Ind_SkydrillerCallmaker</defName>
         <label>skydriller callmaker</label>
-        <description>Skydriller is a low orbit plasma driller, use the callmaker to call a plasma drilling, it will creat a mining hole. NOTE: sky driller can't drill through mountain.</description>
+        <description>Skydriller is a low orbit plasma driller, use the callmaker to request a plasma drilling, which will create a mining hole. NOTE: sky driller can't drill through mountain.</description>
         <statBases>
             <Beauty>-8</Beauty>
             <Flammability>1.0</Flammability>
@@ -22,6 +22,9 @@
             <li>PlaceWorker_NotUnderRoof</li>
         </placeWorkers>
         <thingClass>Building</thingClass>
+        <thingCategories>
+            <li>BuildingsSpecial</li>
+        </thingCategories>
         <category>Building</category>
         <tickerType>Normal</tickerType>
         <rotatable>false</rotatable>
@@ -35,9 +38,9 @@
                 <compClass>Industrialisation.CompUseEffect_ActiveSkydrillerCallmaker</compClass>
             </li>
         </comps>
-        <minifiedDef>Ind_MinifiedSkydrillerCallmaker</minifiedDef>
+        <minifiedDef>MinifiedThing</minifiedDef>
         <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-        <filthLeaving>BuildingRubble</filthLeaving>
+        <filthLeaving>Filth_RubbleBuilding</filthLeaving>
         <graphicData>
             <texPath>Ind/SkyDriller/SkydrillerCallmaker</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -52,38 +55,17 @@
         </graphicData>
         <drawerType>MapMeshAndRealTime</drawerType>
         <selectable>true</selectable>
-        <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+        <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
         <fillPercent>0.30</fillPercent>
         <tradeTags>
-            <li>Ind_Skydrller</li>
+            <li>Ind_Skydriller</li>
         </tradeTags>
     </ThingDef>
 
     <ThingDef>
-        <defName>Ind_MinifiedSkydrillerCallmaker</defName>
-        <label>skydriller callmaker</label>
-        <pathCost>15</pathCost>
-        <altitudeLayer>Item</altitudeLayer>
-        <thingClass>MinifiedThing</thingClass>
-        <category>Item</category>
-        <rotatable>false</rotatable>
-        <useHitPoints>true</useHitPoints>
-        <comps>
-            <li Class="CompProperties_Forbiddable" />
-        </comps>
-        <scatterableOnMapGen>false</scatterableOnMapGen>
-        <drawerType>RealtimeOnly</drawerType>
-        <selectable>true</selectable>
-        <alwaysHaulable>true</alwaysHaulable>
-        <thingCategories>
-            <li>Items</li>
-        </thingCategories>
-    </ThingDef>
-
-    <ThingDef>
         <defName>Ind_SkydrillerCallmaker_Calling</defName>
-        <label>skydriller callmaker</label>
-        <description>Skydriller is a low orbit plasma driller, use the callmaker to call a plasma drilling, it will creat a mining hole. NOTE: sky driller can't drill through mountain.</description>
+        <label>skydriller callmaker (active)</label>
+        <description>Skydriller is a low orbit plasma driller, use the callmaker to request a plasma drilling, which will create a mining hole. NOTE: sky driller can't drill through mountain.</description>
         <statBases>
             <Beauty>-8</Beauty>
             <Flammability>1.0</Flammability>
@@ -109,7 +91,7 @@
             </li>
         </comps>
         <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
-        <filthLeaving>BuildingRubble</filthLeaving>
+        <filthLeaving>Filth_RubbleBuilding</filthLeaving>
         <graphicData>
             <texPath>Ind/SkyDriller/SkydrillerCallmaker_Calling</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -124,7 +106,7 @@
         </graphicData>
         <drawerType>MapMeshAndRealTime</drawerType>
         <selectable>true</selectable>
-        <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+        <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
         <fillPercent>0.30</fillPercent>
         <building>
             <soundAmbient>GeothermalPlant_Ambience</soundAmbient>
@@ -133,7 +115,7 @@
 
     <ThingDef>
         <defName>Ind_SkydrillerCallmaker_Drilling</defName>
-        <label>plasma drill in action</label>
+        <label>skydriller drilling (active)</label>
         <statBases>
             <Beauty>-8</Beauty>
             <Flammability>0</Flammability>
@@ -162,11 +144,11 @@
         </graphicData>
         <drawerType>MapMeshAndRealTime</drawerType>
         <selectable>false</selectable>
-        <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+        <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
         <fillPercent>0.30</fillPercent>
-        <!--<building>
-      <soundAmbient>Ind_PlasmaDrill</soundAmbient>
-    </building>-->
+        <building>
+            <soundAmbient>Ind_PlasmaDrill</soundAmbient>
+        </building>
     </ThingDef>
 
     <ThingDef ParentName="BuildingNaturalBase">

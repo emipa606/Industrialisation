@@ -19,14 +19,14 @@
                 <rect>(0,0.35,1,0.3)</rect>
             </damageData>
         </graphicData>
-        <blueprintGraphicData>
-            <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
-        </blueprintGraphicData>
         <uiIconPath>Ind/Buildings/IndustrialCable_MenuIcon</uiIconPath>
         <building>
             <ai_chillDestination>false</ai_chillDestination>
             <isInert>true</isInert>
             <isEdifice>false</isEdifice>
+            <blueprintGraphicData>
+                <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
+            </blueprintGraphicData>
         </building>
         <altitudeLayer>FloorEmplacement</altitudeLayer>
         <passability>Standable</passability>
@@ -54,7 +54,7 @@
         <rotatable>false</rotatable>
         <selectable>true</selectable>
         <neverMultiSelect>true</neverMultiSelect>
-        <soundImpactDefault>BulletImpactMetal</soundImpactDefault>
+        <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
         <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
         <designationCategory>Power</designationCategory>
         <constructEffect>ConstructMetal</constructEffect>
@@ -88,7 +88,10 @@
         <castEdgeShadows>true</castEdgeShadows>
         <fillPercent>0.40</fillPercent>
         <tickerType>Normal</tickerType>
-        <minifiedDef>MinifiedFurniture</minifiedDef>
+        <minifiedDef>MinifiedThing</minifiedDef>
+        <thingCategories>
+            <li>BuildingsPower</li>
+        </thingCategories>
         <statBases>
             <MaxHitPoints>200</MaxHitPoints>
             <WorkToBuild>2500</WorkToBuild>
@@ -100,13 +103,13 @@
         <costList>
             <Ind_HighGradeSteel>50</Ind_HighGradeSteel>
             <Ind_Copper>15</Ind_Copper>
-            <Component>3</Component>
+            <ComponentIndustrial>3</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="CompProperties_Battery">
                 <storedEnergyMax>2000</storedEnergyMax>
                 <efficiency>0.65</efficiency>
-                <startElectricalFires>false</startElectricalFires>
+                <shortCircuitInRain>false</shortCircuitInRain>
                 <transmitsPower>true</transmitsPower>
             </li>
             <li Class="CompProperties_Breakdownable"/>
@@ -123,7 +126,7 @@
     <ThingDef ParentName="Ind_BuildingBase">
         <defName>Ind_NuclearPowerPlant</defName>
         <label>nuclear power plant</label>
-        <description>A small nuclear power plant, 20kW power output. Uses uranium as fuel.</description>
+        <description>A nuclear power plant, 20kW power output. Uses uranium as fuel.</description>
         <thingClass>Industrialisation.Building_NuclearPowerPlant</thingClass>
         <graphicData>
             <texPath>Ind/Buildings/NuclearPowerPlant</texPath>
@@ -154,7 +157,7 @@
         <costList>
             <Ind_HighGradeSteel>1000</Ind_HighGradeSteel>
             <Ind_Concrete>1000</Ind_Concrete>
-            <Component>30</Component>
+            <ComponentIndustrial>30</ComponentIndustrial>
             <!--<Uranium>500</Uranium>-->
         </costList>
         <comps>

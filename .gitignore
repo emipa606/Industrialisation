@@ -253,3 +253,16 @@ paket-files/
 
 test/
 RimTrans/
+Assemblies/NAudio\.dll
+
+Assemblies/NVorbis\.dll
+
+Assemblies/Assembly-CSharp-firstpass\.dll
+
+Assemblies/Assembly-CSharp\.dll
+
+Assemblies/TextMeshPro-1\.0\.55\.56\.0b11\.dll
+
+Assemblies/UnityEngine\.UI\.dll
+
+Assemblies/UnityEngine\.dll

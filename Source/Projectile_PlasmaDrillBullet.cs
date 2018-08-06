@@ -11,7 +11,7 @@ namespace Industrialisation
         protected override void Impact(Thing hitThing)
         {
             base.Impact(hitThing);
-            GenSpawn.Spawn(ThingDef.Named("Ind_PlasmaDrillDeployed"), this.Position, Find.VisibleMap);
+            GenSpawn.Spawn(ThingDef.Named("Ind_PlasmaDrillDeployed"), this.Position, Find.CurrentMap);
         }
 
     }
