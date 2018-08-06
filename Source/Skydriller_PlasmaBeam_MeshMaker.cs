@@ -34,7 +34,7 @@ namespace Industrialisation
                 Skydriller_PLasmaBeam_MeshMaker.MakeVerticesBase();
                 Skydriller_PLasmaBeam_MeshMaker.PeturbVerticesRandomly();
                 Skydriller_PLasmaBeam_MeshMaker.DoubleVertices();
-                laserBeamMesh = Skydriller_PLasmaBeam_MeshMaker.MeshFromVerts();
+                laserBeamMesh = Skydriller_PLasmaBeam_MeshMaker.MeshFromVerts();     
             }
             return laserBeamMesh;
         }

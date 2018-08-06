@@ -49,13 +49,13 @@
         <rotatable>true</rotatable>
         <costList>
             <Steel>100</Steel>
-            <Component>2</Component>
+            <ComponentIndustrial>2</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="CompProperties_Power">
                 <compClass>CompPowerTrader</compClass>
                 <basePowerConsumption>350</basePowerConsumption>
-                <startElectricalFires>false</startElectricalFires>
+                <shortCircuitInRain>false</shortCircuitInRain>
             </li>
             <li Class="CompProperties_Flickable"/>
             <li Class="CompProperties_Breakdownable"/>
@@ -107,13 +107,13 @@
         <rotatable>true</rotatable>
         <costList>
             <Steel>600</Steel>
-            <Component>10</Component>
+            <ComponentIndustrial>10</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="CompProperties_Power">
                 <compClass>CompPowerTrader</compClass>
                 <basePowerConsumption>3600</basePowerConsumption>
-                <startElectricalFires>false</startElectricalFires>
+                <shortCircuitInRain>false</shortCircuitInRain>
             </li>
             <li Class="CompProperties_Flickable"/>
             <li Class="CompProperties_Breakdownable"/>
@@ -146,7 +146,7 @@
             <li>SmeltWeapon</li>
         </recipes>
         <researchPrerequisites>
-            <li>ElectricSmelting</li>
+            <li>Electricity</li>
         </researchPrerequisites>
     </ThingDef>
 
@@ -180,13 +180,13 @@
         <rotatable>true</rotatable>
         <costList>
             <Steel>850</Steel>
-            <Component>20</Component>
+            <ComponentIndustrial>20</ComponentIndustrial>
         </costList>
         <comps>
             <li Class="CompProperties_Power">
                 <compClass>CompPowerTrader</compClass>
                 <basePowerConsumption>3600</basePowerConsumption>
-                <startElectricalFires>false</startElectricalFires>
+                <shortCircuitInRain>false</shortCircuitInRain>
             </li>
             <li Class="CompProperties_Flickable"/>
             <li Class="CompProperties_Breakdownable"/>

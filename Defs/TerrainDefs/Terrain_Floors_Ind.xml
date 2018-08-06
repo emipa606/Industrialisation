@@ -6,7 +6,7 @@
         <affordances>
             <li>Light</li>
             <li>Heavy</li>
-            <li>SmoothHard</li>
+            <li>Medium</li>
         </affordances>
         <statBases>
             <WorkToBuild>135</WorkToBuild>
