@@ -134,7 +134,7 @@
                 <glowColor>(252,187,113,0)</glowColor>
             </li>
             <li Class="CompProperties_Lifespan">
-                <lifespanTicks>7200</lifespanTicks>
+                <lifespanTicks>3000</lifespanTicks>
             </li>
         </comps>
         <useHitPoints>false</useHitPoints>
@@ -146,11 +146,8 @@
         <selectable>false</selectable>
         <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
         <fillPercent>0.30</fillPercent>
-        <building>
-            <soundAmbient>Ind_PlasmaDrill</soundAmbient>
-        </building>
     </ThingDef>
-
+        
     <ThingDef ParentName="BuildingNaturalBase">
         <defName>Ind_MiningHole</defName>
         <label>mining hole</label>
