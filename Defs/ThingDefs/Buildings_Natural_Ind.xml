@@ -44,11 +44,11 @@
         </building>
     </ThingDef>
 
-    <!--============================ Resource rocks ===============================--> 
+    <!--========================== Resource rocks ===========================-->
 
     <ThingDef ParentName="Ind_RockBase">
         <defName>Ind_MineableCopper</defName>
-        <label>compacted copper</label>
+        <label>Compacted copper</label>
         <description>The remains of some ancient, collapsed structure. Rich in copper.</description>
         <graphicData>
             <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
@@ -74,7 +74,7 @@
 
     <ThingDef ParentName="Ind_RockBase">
         <defName>Ind_MineableAluminium</defName>
-        <label>compacted aluminium</label>
+        <label>Compacted aluminium</label>
         <description>The remains of some ancient, collapsed structure. Rich in aluminium.</description>
         <graphicData>
             <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>

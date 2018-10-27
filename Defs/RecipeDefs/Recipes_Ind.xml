@@ -194,7 +194,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineSteel</defName>
-        <label>mine deep steel</label>
+        <label>Mine deep steel</label>
         <description>Mine deep steel.</description>
         <workAmount>1500</workAmount>
         <products>
@@ -204,7 +204,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineCopper</defName>
-        <label>mine deep copper</label>
+        <label>Mine deep copper</label>
         <description>Mine deep copper.</description>
         <workAmount>2000</workAmount>
         <products>
@@ -214,7 +214,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineAluminium</defName>
-        <label>mine deep aluminium</label>
+        <label>Mine deep aluminium</label>
         <description>Mine deep aluminium.</description>
         <workAmount>2500</workAmount>
         <products>
@@ -224,7 +224,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMinePlasteel</defName>
-        <label>mine deep plasteel</label>
+        <label>Mine deep plasteel</label>
         <description>Mine deep plasteel.</description>
         <workAmount>4000</workAmount>
         <products>
@@ -234,7 +234,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineSilver</defName>
-        <label>mine deep silver</label>
+        <label>Mine deep silver</label>
         <description>Mine deep silver.</description>
         <workAmount>1500</workAmount>
         <products>
@@ -244,7 +244,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineGold</defName>
-        <label>mine deep gold</label>
+        <label>Mine deep gold</label>
         <description>Mine deep gold.</description>
         <workAmount>4000</workAmount>
         <products>
@@ -254,7 +254,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineUranium</defName>
-        <label>mine deep uranium</label>
+        <label>Mine deep uranium</label>
         <description>Mine deep uranium.</description>
         <workAmount>4000</workAmount>
         <products>
@@ -266,7 +266,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineJade</defName>
-        <label>mine deep jade</label>
+        <label>Mine deep jade</label>
         <description>Mine deep jade.</description>
         <workAmount>4000</workAmount>
         <products>
@@ -276,7 +276,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkSandstone</defName>
-        <label>mine deep sandstone chunk</label>
+        <label>Mine deep sandstone chunk</label>
         <description>Mine deep sandstone chunk.</description>
         <workAmount>800</workAmount>
         <products>
@@ -286,7 +286,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkGranite</defName>
-        <label>mine deep granite chunk</label>
+        <label>Mine deep granite chunk</label>
         <description>Mine deep granite chunk.</description>
         <workAmount>1800</workAmount>
         <products>
@@ -296,7 +296,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkLimestone</defName>
-        <label>mine deep limestone chunk</label>
+        <label>Mine deep limestone chunk</label>
         <description>Mine deep limestone chunk.</description>
         <workAmount>1400</workAmount>
         <products>
@@ -306,7 +306,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkSlate</defName>
-        <label>mine deep slate chunk</label>
+        <label>Mine deep slate chunk</label>
         <description>Mine deep slate chunk.</description>
         <workAmount>1000</workAmount>
         <products>
@@ -316,7 +316,7 @@
 
     <RecipeDef ParentName="Ind_DeepMineBase">
         <defName>Ind_DeepMineChunkMarble</defName>
-        <label>mine deep marble chunk</label>
+        <label>Mine deep marble chunk</label>
         <description>Mine deep marble chunk.</description>
         <workAmount>800</workAmount>
         <products>
