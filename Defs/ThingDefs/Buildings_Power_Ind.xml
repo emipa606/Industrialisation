@@ -8,7 +8,7 @@
         <thingClass>Building</thingClass>
         <category>Building</category>
         <graphicData>
-            <texPath>Ind/Buildings/IndustrialCable_Atlas</texPath>
+            <texPath>Things/Building/Linked/PowerConduit_Atlas</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <color>(125,125,125)</color><!-- Dark Grey cable to distinguish from vanilla -->
             <linkType>Transmitter</linkType>
@@ -20,6 +20,7 @@
             </damageData>
         </graphicData>
         <uiIconPath>Ind/Buildings/IndustrialCable_MenuIcon</uiIconPath>
+        <uiIconScale>0.7</uiIconScale>
         <building>
             <ai_chillDestination>false</ai_chillDestination>
             <isInert>true</isInert>
@@ -28,7 +29,7 @@
                 <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
             </blueprintGraphicData>
         </building>
-        <altitudeLayer>FloorEmplacement</altitudeLayer>
+        <altitudeLayer>Conduits</altitudeLayer>
         <passability>Standable</passability>
         <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
         <statBases>
@@ -101,7 +102,8 @@
         </statBases>
         <size>(1,2)</size>
         <costList>
-            <Ind_HighGradeSteel>50</Ind_HighGradeSteel>
+            <Ind_HighGradeSteel>30</Ind_HighGradeSteel>
+            <Ind_Aluminium>5</Ind_Aluminium>
             <Ind_Copper>15</Ind_Copper>
             <ComponentIndustrial>3</ComponentIndustrial>
         </costList>
@@ -158,7 +160,8 @@
             <Ind_HighGradeSteel>1000</Ind_HighGradeSteel>
             <Ind_Concrete>1000</Ind_Concrete>
             <ComponentIndustrial>30</ComponentIndustrial>
-            <!--<Uranium>500</Uranium>-->
+	    <Ind_Copper>200</Ind_Copper>
+	    <Ind_Aluminium>300</Ind_Aluminium>
         </costList>
         <comps>
             <li Class="CompProperties_Explosive">

@@ -4,7 +4,6 @@
     <TraderKindDef>
         <defName>Ind_Orbital_DeepSpaceMiningShip</defName>
         <label>deep space mining ship</label>
-        <commonality>1</commonality>
         <orbital>true</orbital>
         <stockGenerators>
             <li Class="StockGenerator_SingleDef">
