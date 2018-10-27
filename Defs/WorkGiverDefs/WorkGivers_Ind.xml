@@ -6,7 +6,7 @@
 
     <WorkGiverDef>
         <defName>Ind_DoBillsMixconcrete</defName>
-        <label>do bills at concrete mixer</label>
+        <label>Do bills at concrete mixer</label>
         <giverClass>WorkGiver_DoBill</giverClass>
         <workType>Crafting</workType>
         <priorityInType>91</priorityInType>
@@ -22,7 +22,7 @@
 
     <WorkGiverDef>
         <defName>Ind_DoBillsDeepMine</defName>
-        <label>do bills at deep mine</label>
+        <label>Do bills at deep mine</label>
         <giverClass>WorkGiver_DoBill</giverClass>
         <workType>Mining</workType>
         <priorityInType>90</priorityInType>
@@ -38,7 +38,7 @@
 
     <WorkGiverDef>
         <defName>Ind_DoBillsElectricArcFurnace</defName>
-        <label>do bills at electric arc furnace</label>
+        <label>Do bills at electric arc furnace</label>
         <giverClass>WorkGiver_DoBill</giverClass>
         <workType>Smithing</workType>
         <priorityInType>70</priorityInType>

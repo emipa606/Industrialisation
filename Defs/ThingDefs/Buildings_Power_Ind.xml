@@ -101,7 +101,8 @@
         </statBases>
         <size>(1,2)</size>
         <costList>
-            <Ind_HighGradeSteel>50</Ind_HighGradeSteel>
+            <Ind_HighGradeSteel>30</Ind_HighGradeSteel>
+            <Ind_Aluminium>5</Ind_Aluminium>
             <Ind_Copper>15</Ind_Copper>
             <ComponentIndustrial>3</ComponentIndustrial>
         </costList>
@@ -158,7 +159,8 @@
             <Ind_HighGradeSteel>1000</Ind_HighGradeSteel>
             <Ind_Concrete>1000</Ind_Concrete>
             <ComponentIndustrial>30</ComponentIndustrial>
-            <!--<Uranium>500</Uranium>-->
+	    <Ind_Copper>200</Ind_Copper>
+	    <Ind_Aluminium>300</Ind_Aluminium>
         </costList>
         <comps>
             <li Class="CompProperties_Explosive">

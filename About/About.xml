@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Industrialisation</name>
 	<author>eatKenny, duduluu, TrashedDT</author>
-	<targetVersion>0.19.2009</targetVersion>
+	<targetVersion>1.0.2045</targetVersion>
 	<description>Adds some heavy industries to the game. 
 
 Original Author(s): eatKenny, duduluu
@@ -18,19 +18,24 @@ Current Maintainer: TrashedDT
 
 &lt;color=#ffee58&gt;&lt;b&gt;New stuff:&lt;/b&gt;&lt;/color&gt;
  - concrete  
- - high-grade steel  
+ - high-grade steel  (Electric Arc Furnace + 75 steel)
  - copper  
  - aluminium
+ - skydriller callmaker - Used to create mining holes for the deep mine.
+
+Note: To active the skydriller callmake:
+1) Place in the desired location
+2) After selecting a pawn, right click on the callmake and choose 'Activate".
 
 &lt;color=#ffee58&gt;&lt;b&gt;New bench:&lt;/b&gt;&lt;/color&gt;
  - concrete mixer
- - electric arc furnace
- - deep mine (require research: deep drilling)
+ - electric arc furnace (required research: Electricity)
+ - deep mine - unlimited raw materials (required research: Deep Drilling)
 
 &lt;color=#ffee58&gt;&lt;b&gt;New power building:&lt;/b&gt;&lt;/color&gt;
- - industrial cable
- - industrial battery
- - nuclear power plant
+ - industrial cable - never short circuits
+ - industrial battery - never short circuits
+ - nuclear power plant - Use uranium to produce massive amounts of power (20kW)
 
 &lt;color=#ffee58&gt;&lt;b&gt;New trader ship:&lt;/b&gt;&lt;/color&gt;
  - deep space mining ship

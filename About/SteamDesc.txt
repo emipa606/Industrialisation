@@ -13,19 +13,24 @@ Current Maintainer: TrashedDT
 
 [h1][b]New stuff:[/b][/h1]
  - concrete  
- - high-grade steel  
+ - high-grade steel  (Electric Arc Furnace + 75 steel)
  - copper  
  - aluminium
+ - skydriller callmaker - Used to create mining holes for the deep mine.
+
+Note: To active the skydriller callmake:
+1) Place in the desired location
+2) After selecting a pawn, right click on the callmake and choose 'Activate".
 
 [h1][b]New bench:[/b][/h1]
  - concrete mixer
- - electric arc furnace
- - deep mine
+ - electric arc furnace (required research: Electricity)
+ - deep mine - unlimited raw materials (required research: Deep Drilling)
 
 [h1][b]New power building:[/b][/h1]
- - industrial cable
- - industrial battery
- - nuclear power plant
+ - industrial cable - never short circuits
+ - industrial battery - never short circuits
+ - nuclear power plant - Use uranium to produce massive amounts of power (20kW)
 
 [h1][b]New trader ship:[/b][/h1]
  - deep space mining ship
