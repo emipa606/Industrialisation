@@ -154,7 +154,8 @@
         <label>mining hole</label>
         <description>A mining hole.</description>
         <thingClass>Thing</thingClass>
-        <!--<category>Ethereal</category>-->
+        <category>Ethereal</category>
+        <passability>Impassable</passability>
         <graphicData>
             <texPath>Ind/SkyDriller/MineHole</texPath>
             <graphicClass>Graphic_Single</graphicClass>
@@ -198,6 +199,7 @@
             <WorkToBuild>500</WorkToBuild>
             <Flammability>0.0</Flammability>
             <Cleanliness>2</Cleanliness>
+            <WorkTableWorkSpeedFactor>1</WorkTableWorkSpeedFactor>
         </statBases>
         <tickerType>Never</tickerType>
         <selectable>true</selectable>
@@ -208,8 +210,6 @@
             <Ind_Concrete>40</Ind_Concrete>
         </costList>
         <building>
-            <workSpeedPenaltyOutdoors>false</workSpeedPenaltyOutdoors>
-            <workSpeedPenaltyTemperature>false</workSpeedPenaltyTemperature>
             <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
         </building>
         <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
@@ -245,6 +245,7 @@
             <WorkToBuild>500</WorkToBuild>
             <Flammability>0.0</Flammability>
             <Cleanliness>2</Cleanliness>
+            <WorkTableWorkSpeedFactor>0.75</WorkTableWorkSpeedFactor>
         </statBases>
         <tickerType>Never</tickerType>
         <selectable>true</selectable>
@@ -254,8 +255,6 @@
             <Ind_PileofDirt>90</Ind_PileofDirt>
         </costList>
         <building>
-            <workSpeedPenaltyOutdoors>false</workSpeedPenaltyOutdoors>
-            <workSpeedPenaltyTemperature>false</workSpeedPenaltyTemperature>
             <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
         </building>
         <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
