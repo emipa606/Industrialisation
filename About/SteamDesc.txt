@@ -1,7 +1,8 @@
 Adds some heavy industries to the game.
 
-Original Author(s): eatKenny, duduluu
-Current Maintainer: TrashedDT
+Original Developers: eatKenny, duduluu
+Current Developer: TrashedDT
+Translators: Drakuv (Italian), TeiXeR (German)
 
 [h1][b]Compatible with existing save and other mods, enjoy it.[/b][/h1]
 
