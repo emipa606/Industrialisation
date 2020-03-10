@@ -40,44 +40,12 @@
             <isInert>true</isInert>
             <isNaturalRock>true</isNaturalRock>
             <canBuildNonEdificesUnder>false</canBuildNonEdificesUnder>
-            <smoothedThing />
             <deconstructible>false</deconstructible>
         </building>
     </ThingDef>
 
     <!--========================== Resource rocks ===========================-->
-	<ThingDef Name="Ind_SmoothedRockBase" ParentName="Ind_RockBase" Abstract="True">
-		<graphicData>
-			<!--texPath>Things/Building/Linked/RockSmooth_Atlas</texPath>-->
-            <texPath>Ind/Stuff/Smooth_RockFlecked_Atlas</texPath>   
-            <shaderType>CutoutComplex</shaderType> 
-            <graphicClass>Graphic_Single</graphicClass>            
-		</graphicData>
-		<statBases>
-			<Beauty>1</Beauty>
-			<MarketValue>12</MarketValue>
-		</statBases>
-		<building>
-			<isNaturalRock>false</isNaturalRock>
-			<canBuildNonEdificesUnder>true</canBuildNonEdificesUnder>
-			<smoothedThing />
-		</building>
-		<saveCompressible>false</saveCompressible>
-	</ThingDef>
 
-	<ThingDef ParentName="Ind_SmoothedRockBase">
-		<defName>Ind_SmoothedMineableCopper</defName>
-		<label>smoothed copper</label>
-		<description>Smoothed copper surface.</description>
-		<graphicData>
-			<color>(90,130,110)</color>
-            <colorTwo>(160,115,45)</colorTwo>
-		</graphicData>
-		<statBases>
-			<MaxHitPoints>1500</MaxHitPoints>
-		</statBases>
-	</ThingDef>
-    
     <ThingDef ParentName="Ind_RockBase">
         <defName>Ind_MineableCopper</defName>
         <label>Compacted copper</label>
@@ -96,12 +64,11 @@
             <isResourceRock>true</isResourceRock>
             <mineableThing>Ind_Copper</mineableThing>
             <mineableYield>35</mineableYield>
-            <mineableScatterCommonality>0.4</mineableScatterCommonality>
+            <mineableScatterCommonality>0.15</mineableScatterCommonality>
             <mineableScatterLumpSizeRange>
                 <min>7</min>
                 <max>14</max>
             </mineableScatterLumpSizeRange>
-            <smoothedThing>Ind_SmoothedMineableCopper</smoothedThing>
         </building>
     </ThingDef>
 
@@ -123,7 +90,7 @@
             <isResourceRock>true</isResourceRock>
             <mineableThing>Ind_Aluminium</mineableThing>
             <mineableYield>35</mineableYield>
-            <mineableScatterCommonality>0.4</mineableScatterCommonality>
+            <mineableScatterCommonality>0.15</mineableScatterCommonality>
             <mineableScatterLumpSizeRange>
                 <min>9</min>
                 <max>18</max>
