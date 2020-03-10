@@ -98,7 +98,7 @@
             <WorkToBuild>6000</WorkToBuild>
             <Flammability>0</Flammability>
             <Cleanliness>-2</Cleanliness>
-            <WorkTableWorkSpeedFactor>.75</WorkTableWorkSpeedFactor>
+            <WorkTableWorkSpeedFactor>1</WorkTableWorkSpeedFactor>
         </statBases>
         <size>(3,3)</size>
         <rotatable>true</rotatable>
