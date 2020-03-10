@@ -8,7 +8,7 @@
         <thingClass>Building</thingClass>
         <category>Building</category>
         <graphicData>
-            <texPath>Things/Building/Linked/PowerConduit_Atlas</texPath>
+            <texPath>Ind/Buildings/IndustrialCable_Atlas</texPath>
             <graphicClass>Graphic_Single</graphicClass>
             <color>(125,125,125)</color><!-- Dark Grey cable to distinguish from vanilla -->
             <linkType>Transmitter</linkType>
@@ -20,7 +20,6 @@
             </damageData>
         </graphicData>
         <uiIconPath>Ind/Buildings/IndustrialCable_MenuIcon</uiIconPath>
-        <uiIconScale>0.7</uiIconScale>
         <building>
             <ai_chillDestination>false</ai_chillDestination>
             <isInert>true</isInert>
@@ -29,7 +28,7 @@
                 <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
             </blueprintGraphicData>
         </building>
-        <altitudeLayer>Conduits</altitudeLayer>
+        <altitudeLayer>FloorEmplacement</altitudeLayer>
         <passability>Standable</passability>
         <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
         <statBases>

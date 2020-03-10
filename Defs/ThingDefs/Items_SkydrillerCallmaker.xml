@@ -154,7 +154,7 @@
         <label>mining hole</label>
         <description>A mining hole.</description>
         <thingClass>Thing</thingClass>
-        <!--<category>Ethereal</category>-->
+        <category>Ethereal</category>
         <graphicData>
             <texPath>Ind/SkyDriller/MineHole</texPath>
             <graphicClass>Graphic_Single</graphicClass>
