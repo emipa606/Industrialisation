@@ -36,6 +36,10 @@ Note: To active the skydriller callmake:
 [h1][b]New trader ship:[/b][/h1]
  - deep space mining ship
 
+[h1][b]Mod Suport:[/b][/h1]
+ - Glitter Tech - Titanium added to Deep Mine
+ - Cupro's Alloy - Metals added to Deep Mine, Industrialisation recipes replaced by Cupro's copper and aluminum
+ 
 [h1][b]License[/b][/h1]
  - Source code: MIT License https://opensource.org/licenses/MIT
  - Artwork: CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/

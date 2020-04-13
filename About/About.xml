@@ -7,6 +7,12 @@
         <li>1.1</li>
     </supportedVersions>
     <packageId>trasheddt.industrialisation</packageId>
+    <loadAfter>
+        <li>GT.Sam.GlitterTech</li>
+        <li>GT.Sam.GlitterTechNS</li>
+        <li>TheWireLord354.ConduitDeconstruct</li>        
+        <li>Mlie.CuprosAlloys</li>
+    </loadAfter>
 	<description>Adds some heavy industries to the game. 
 
 Original Developers: eatKenny, duduluu
@@ -45,6 +51,10 @@ Note: To active the skydriller callmake:
 &lt;color=#ffee58&gt;&lt;b&gt;New trader ship:&lt;/b&gt;&lt;/color&gt;
  - deep space mining ship
 
+ &lt;color=#ffee58&gt;&lt;b&gt;Mod Suport:&lt;/b&gt;&lt;/color&gt;
+ - Glitter Tech - Titanium added to Deep Mine
+ - Cupro's Alloy - Metals added to Deep Mine, Industrialisation recipes replaced by Cupro's copper and aluminum
+ 
 &lt;color=#ffee58&gt;&lt;b&gt;License&lt;/b&gt;&lt;/color&gt;
  - Source code: MIT License https://opensource.org/licenses/MIT
  - Artwork: CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
