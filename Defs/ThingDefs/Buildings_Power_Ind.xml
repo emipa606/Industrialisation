@@ -29,7 +29,7 @@
                 <texPath>Things/Building/Linked/PowerConduit_Blueprint_Atlas</texPath>
             </blueprintGraphicData>
         </building>
-        <altitudeLayer>Conduits</altitudeLayer>
+        <altitudeLayer>FloorEmplacement</altitudeLayer>
         <passability>Standable</passability>
         <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
         <statBases>
