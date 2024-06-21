@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TraderKindDef>
+    <defName>Ind_Orbital_DeepSpaceMiningShip</defName>
+    <label>deep space mining ship</label>
+    <commonality>1</commonality>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>2400~6000</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Ind_Copper</thingDef>
+        <countRange>200~600</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Steel</thingDef>
+        <price>Cheap</price>
+        <countRange>800~1500</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Ind_Aluminium</thingDef>
+        <price>Cheap</price>
+        <countRange>200~600</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Uranium</thingDef>
+        <countRange>100~300</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Plasteel</thingDef>
+        <countRange>100~300</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MealSurvivalPack</thingDef>
+        <countRange>20~50</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>WoodLog</thingDef>
+        <countRange>200~600</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineIndustrial</thingDef>
+        <price>Expensive</price>
+        <countRange>10~30</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineUltratech</thingDef>
+        <price>Expensive</price>
+        <countRange>5~10</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Ind_SkydrillerCallmaker</thingDef>
+        <countRange>1~2</countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+</Defs>

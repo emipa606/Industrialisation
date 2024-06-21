@@ -1,33 +1,52 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Industrialisation</name>
-	<author>TrashedDT</author>
-    <supportedVersions>
-        <li>1.0</li>
-        <li>1.1</li>
-    </supportedVersions>
-    <packageId>trasheddt.industrialisation</packageId>
-    <loadAfter>
-        <li>GT.Sam.GlitterTech</li>
-        <li>GT.Sam.GlitterTechNS</li>
-        <li>TheWireLord354.ConduitDeconstruct</li>        
-        <li>Mlie.CuprosAlloys</li>
-    </loadAfter>
-	<description>Adds some heavy industries to the game. 
+  <name>Industrialisation (Continued)</name>
+  <packageId>Mlie.Industrialisation</packageId>
+  <author>eatKenny, duduluu</author>
+  <url>https://github.com/emipa606/Industrialisation</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of TrashedDTs mod https://steamcommunity.com/sharedfiles/filedetails/?id=1463579055
+that was based on duduluus mod https://steamcommunity.com/sharedfiles/filedetails/?id=863827593
+
+- Removed redundant base definitions for better compatibility
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/Industrialisation][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+Adds some heavy industries to the game.
 
 Original Developers: eatKenny, duduluu
 Current Developer: TrashedDT
 Translators: Drakuv (Italian), TeiXeR (German)
 
-&lt;color=#ffee58&gt;&lt;b&gt;Compatible with existing save and other mods, enjoy it.&lt;/b&gt;&lt;/color&gt;
+[h1][b]Compatible with existing save and other mods, enjoy it.[/b][/h1]
 
-&lt;color=#ffee58&gt;&lt;b&gt;How to build a deep mine:&lt;/b&gt;&lt;/color&gt;
+[h1][b]How to build a deep mine:[/b][/h1]
  1. Buy a 'skydriller callmaker'
  2. Install and active it
  3. Wait for the plasma beam to make a 'mine hole'
  4. Build a 'deep mine' on the mine hole
 
-&lt;color=#ffee58&gt;&lt;b&gt;New stuff:&lt;/b&gt;&lt;/color&gt;
+[h1][b]New stuff:[/b][/h1]
  - concrete  
  - high-grade steel  (Electric Arc Furnace + 75 steel)
  - copper  
@@ -38,25 +57,42 @@ Note: To active the skydriller callmake:
 1) Place in the desired location
 2) After selecting a pawn, right click on the callmake and choose 'Activate".
 
-&lt;color=#ffee58&gt;&lt;b&gt;New bench:&lt;/b&gt;&lt;/color&gt;
+[h1][b]New bench:[/b][/h1]
  - concrete mixer
  - electric arc furnace (required research: Electricity)
  - deep mine - unlimited raw materials (required research: Deep Drilling)
 
-&lt;color=#ffee58&gt;&lt;b&gt;New power building:&lt;/b&gt;&lt;/color&gt;
+[h1][b]New power building:[/b][/h1]
  - industrial cable - never short circuits
  - industrial battery - never short circuits
  - nuclear power plant - Use uranium to produce massive amounts of power (20kW)
 
-&lt;color=#ffee58&gt;&lt;b&gt;New trader ship:&lt;/b&gt;&lt;/color&gt;
+[h1][b]New trader ship:[/b][/h1]
  - deep space mining ship
 
- &lt;color=#ffee58&gt;&lt;b&gt;Mod Suport:&lt;/b&gt;&lt;/color&gt;
+[h1][b]Mod Suport:[/b][/h1]
  - Glitter Tech - Titanium added to Deep Mine
  - Cupro's Alloy - Metals added to Deep Mine, Industrialisation recipes replaced by Cupro's copper and aluminum
  
-&lt;color=#ffee58&gt;&lt;b&gt;License&lt;/b&gt;&lt;/color&gt;
+[h1][b]License[/b][/h1]
  - Source code: MIT License https://opensource.org/licenses/MIT
  - Artwork: CC BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/
-</description>
+
+[h1][b]Non-steam and old version download[/b][/h1]
+[h2][b]B18+[/b][/h2]
+https://github.com/trasheddt/eatKenny-Industrialisation/releases
+[h2][b]Pre B18[/b][/h2]
+https://github.com/RimWorld-zh/eatKenny-Industrialisation/releases
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] or the standalone [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[*] Use [url=https://github.com/RimSort/RimSort/releases/latest]RimSort[/url] to sort your mods
+[/list]</description>
+  <modVersion IgnoreIfNoMatchingField="True">1.5.1</modVersion>
 </ModMetaData>

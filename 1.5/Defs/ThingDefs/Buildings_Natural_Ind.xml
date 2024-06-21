@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!--========================== Resource rocks ===========================-->
+  <ThingDef ParentName="RockBase">
+    <defName>Ind_MineableCopper</defName>
+    <label>Compacted copper</label>
+    <description>The remains of some ancient, collapsed structure. Rich in copper.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(90,130,110)</color>
+      <colorTwo>(160,115,45)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Ind_Copper</mineableThing>
+      <mineableYield>35</mineableYield>
+      <mineableScatterCommonality>0.15</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>7</min>
+        <max>14</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="RockBase">
+    <defName>Ind_MineableAluminium</defName>
+    <label>Compacted aluminium</label>
+    <description>The remains of some ancient, collapsed structure. Rich in aluminium.</description>
+    <graphicData>
+      <texPath>Things/Building/Linked/RockFlecked_Atlas</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <color>(124,124,110)</color>
+      <colorTwo>(175,175,165)</colorTwo>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+    </statBases>
+    <building>
+      <isResourceRock>true</isResourceRock>
+      <mineableThing>Ind_Aluminium</mineableThing>
+      <mineableYield>35</mineableYield>
+      <mineableScatterCommonality>0.15</mineableScatterCommonality>
+      <mineableScatterLumpSizeRange>
+        <min>9</min>
+        <max>18</max>
+      </mineableScatterLumpSizeRange>
+    </building>
+  </ThingDef>
+</Defs>

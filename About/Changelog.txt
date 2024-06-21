@@ -1,0 +1,4 @@
+# Changelog for Industrialisation
+
+1.5.1 - Updated for 1.5, removed redundant base definitions
+
