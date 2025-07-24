@@ -3,5 +3,16 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "SocialImageSet": true,
-  "PreviewVersion": "1.5"
+  "PreviewVersion": "1.6",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": true,
+  "LinesOfCode": 11210,
+  "LinesOfXML": 60537,
+  "CodeBaseSize": 77,
+  "LastXmlCleaning": "2025-07-24T17:05:06.5386326+02:00",
+  "SearchTags": [
+    " electricity",
+    " advanced materials"
+  ]
 }

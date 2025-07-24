@@ -31,7 +31,7 @@ internal class Building_SkydrillerCallmaker_Drilling : Building
     private int explosionTick = 4;
     private int plasmaTick = 4;
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
         plasmaTick--;
@@ -49,7 +49,7 @@ internal class Building_SkydrillerCallmaker_Drilling : Building
 
         GenExplosion.DoExplosion(Position, Map, 1.5f, DamageDefOf.Flame, null, plasmaDamage, plasmaArmorPenetration,
             plasmaDrillSound, null, null, null, null, plasmaPostExplosionSpawnChance,
-            plasmaPostExplosionSpawnThingCount, GasType.BlindSmoke, plasmaApplyDamageToExplosionCellsNeighbors,
+            plasmaPostExplosionSpawnThingCount, GasType.BlindSmoke, null, 0, plasmaApplyDamageToExplosionCellsNeighbors,
             null, plasmaPreExplosionSpawnChance, plasmaPreExplosionSpawnThingCount, plasmaChanceToStartFire,
             plasmaDamageFalloff);
         plasmaTick = 4;

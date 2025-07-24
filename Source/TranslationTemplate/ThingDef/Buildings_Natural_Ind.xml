@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Compacted aluminium -->
+  <Ind_MineableAluminium.label>Compacted aluminium</Ind_MineableAluminium.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in aluminium. -->
+  <Ind_MineableAluminium.description>The remains of some ancient, collapsed structure. Rich in aluminium.</Ind_MineableAluminium.description>
+  <!-- EN: Compacted copper -->
+  <Ind_MineableCopper.label>Compacted copper</Ind_MineableCopper.label>
+  <!-- EN: The remains of some ancient, collapsed structure. Rich in copper. -->
+  <Ind_MineableCopper.description>The remains of some ancient, collapsed structure. Rich in copper.</Ind_MineableCopper.description>
+</LanguageData>

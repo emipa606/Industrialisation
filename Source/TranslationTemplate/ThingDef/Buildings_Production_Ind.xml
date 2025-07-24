@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: concrete mixer -->
+  <Ind_ConcreteMixer.label>concrete mixer</Ind_ConcreteMixer.label>
+  <!-- EN: A concrete mixer. -->
+  <Ind_ConcreteMixer.description>A concrete mixer.</Ind_ConcreteMixer.description>
+  <!-- EN: deep mine -->
+  <Ind_DeepMine.label>deep mine</Ind_DeepMine.label>
+  <!-- EN: You can mining several kinds of resources from deep mine, it can only be built on a mining hole. (order a plasma drilling from skydriller, it will make a mining hole at drilling spot.) -->
+  <Ind_DeepMine.description>You can mining several kinds of resources from deep mine, it can only be built on a mining hole. (order a plasma drilling from skydriller, it will make a mining hole at drilling spot.)</Ind_DeepMine.description>
+  <!-- EN: electric arc furnace -->
+  <Ind_ElectricArcFurnace.label>electric arc furnace</Ind_ElectricArcFurnace.label>
+  <!-- EN: A electric arc furnace for steel production, efficient but very power hungry. -->
+  <Ind_ElectricArcFurnace.description>A electric arc furnace for steel production, efficient but very power hungry.</Ind_ElectricArcFurnace.description>
+</LanguageData>

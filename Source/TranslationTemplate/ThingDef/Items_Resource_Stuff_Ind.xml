@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: aluminium -->
+  <Ind_Aluminium.label>aluminium</Ind_Aluminium.label>
+  <!-- EN: Aluminium is a silvery white, soft, nonmagnetic, ductile metal, remarkable for the metal's low density and for its ability to resist corrosion due to the phenomenon of passivation. -->
+  <Ind_Aluminium.description>Aluminium is a silvery white, soft, nonmagnetic, ductile metal, remarkable for the metal's low density and for its ability to resist corrosion due to the phenomenon of passivation.</Ind_Aluminium.description>
+  <!-- EN: concrete -->
+  <Ind_Concrete.label>concrete</Ind_Concrete.label>
+  <!-- EN: widely used construction material. -->
+  <Ind_Concrete.description>widely used construction material.</Ind_Concrete.description>
+  <!-- EN: concrete -->
+  <Ind_Concrete.stuffProps.stuffAdjective>concrete</Ind_Concrete.stuffProps.stuffAdjective>
+  <!-- EN: copper -->
+  <Ind_Copper.label>copper</Ind_Copper.label>
+  <!-- EN: soft but beautiful metal, mostly used for art. -->
+  <Ind_Copper.description>soft but beautiful metal, mostly used for art.</Ind_Copper.description>
+  <!-- EN: high-grade steel -->
+  <Ind_HighGradeSteel.label>high-grade steel</Ind_HighGradeSteel.label>
+  <!-- EN: High-grade steel used for building more stronger structures, tools, and weapons. -->
+  <Ind_HighGradeSteel.description>High-grade steel used for building more stronger structures, tools, and weapons.</Ind_HighGradeSteel.description>
+</LanguageData>

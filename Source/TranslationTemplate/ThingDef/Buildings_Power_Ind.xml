@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: industrial battery -->
+  <Ind_IndustrialBattery.label>industrial battery</Ind_IndustrialBattery.label>
+  <!-- EN: Stable and reliable industrial battery, more efficient than normal battery. It won't catch fire or cause shortcut due to better safety design. -->
+  <Ind_IndustrialBattery.description>Stable and reliable industrial battery, more efficient than normal battery. It won't catch fire or cause shortcut due to better safety design.</Ind_IndustrialBattery.description>
+  <!-- EN: industrial cable -->
+  <Ind_IndustrialCable.label>industrial cable</Ind_IndustrialCable.label>
+  <!-- EN: A set of reinforced and fireproof electrical cables for moving power around. Can be placed under walls and other buildings. -->
+  <Ind_IndustrialCable.description>A set of reinforced and fireproof electrical cables for moving power around. Can be placed under walls and other buildings.</Ind_IndustrialCable.description>
+  <!-- EN: nuclear power plant -->
+  <Ind_NuclearPowerPlant.label>nuclear power plant</Ind_NuclearPowerPlant.label>
+  <!-- EN: A nuclear power plant, 20kW power output. Uses uranium as fuel. -->
+  <Ind_NuclearPowerPlant.description>A nuclear power plant, 20kW power output. Uses uranium as fuel.</Ind_NuclearPowerPlant.description>
+</LanguageData>

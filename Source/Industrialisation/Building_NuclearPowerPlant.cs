@@ -7,7 +7,7 @@ public class Building_NuclearPowerPlant : Building
 {
     private int Burnticks = 40;
 
-    public override void Tick()
+    protected override void Tick()
     {
         base.Tick();
         if (--Burnticks != 0)

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Name="Ind_BuildingBase" Abstract="True" ParentName="BuildingBase">
+    <drawerType>MapMeshAndRealTime</drawerType>
+  </ThingDef>
+</Defs>

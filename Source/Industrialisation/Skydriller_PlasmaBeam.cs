@@ -23,7 +23,7 @@ public class Skydriller_PlasmaBeam(Map map) : WeatherEvent(map)
 
     public override bool Expired => age > duration;
 
-    protected float PBBrightness
+    private float PBBrightness
     {
         get
         {

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Ind: concrete production -->
+  <Ind_ConcreteProduction.label>Ind: concrete production</Ind_ConcreteProduction.label>
+  <!-- EN: Allows you to produce concrete. -->
+  <Ind_ConcreteProduction.description>Allows you to produce concrete.</Ind_ConcreteProduction.description>
+  <!-- EN: Ind: industrial batteries -->
+  <Ind_IndustrialBatteries.label>Ind: industrial batteries</Ind_IndustrialBatteries.label>
+  <!-- EN: Allows you to build industrial batteries. -->
+  <Ind_IndustrialBatteries.description>Allows you to build industrial batteries.</Ind_IndustrialBatteries.description>
+  <!-- EN: Ind: nuclear power -->
+  <Ind_NuclearPower.label>Ind: nuclear power</Ind_NuclearPower.label>
+  <!-- EN: Allows you to build nuclear power plant. -->
+  <Ind_NuclearPower.description>Allows you to build nuclear power plant.</Ind_NuclearPower.description>
+</LanguageData>

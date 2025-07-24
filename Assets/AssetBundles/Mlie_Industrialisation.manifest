@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 3559686090
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3bf9467eafddf7dbd6481badf55dee37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3bf9467eafddf7dbd6481badf55dee37
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialBattery_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/Water.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/Copper.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/SkydrillerCallmaker.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/DeepMine_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialCable_MenuIcon.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/DeepMine_south.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/HandWaterPump_east.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ConcreteMixer_south.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ElectricArcFurnace_east.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ElectricArcFurnace_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ElectricArcFurnace_south.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/PowerConduit_Blueprint_Atlas.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ConcreteMixer_east.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/ConcreteMixer_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/PlasmaBeam.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/Smooth_RockFlecked_Atlas.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialBattery_east.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/Aluminium.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialCable_Atlas_old.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/WaterPump_east.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/SkydrillerCallmaker_Drilling.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/HandWaterPump_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/MineHole.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/HighGradeSteel.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/DeepMine_east.png
+- Assets/Data/Mlie.Industrialisation/Sounds/Ind_PlasmaDrill.ogg
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/WaterPump_south.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Stuff/Concrete.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/SkyllDriller_Bullet.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialCable_Atlas.png
+- Assets/Data/Mlie.Industrialisation/Sounds/Ind_PlasmaDrillFire.ogg
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/IndustrialCable_MenuIcon_old.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/NuclearPowerPlant.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/HandWaterPump_south.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/SkyllDriller.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/Buildings/WaterPump_north.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/SkydrillerCallmaker_Calling.png
+- Assets/Data/Mlie.Industrialisation/Textures/Ind/SkyDriller/ConcreteSeal.png
+Dependencies: []

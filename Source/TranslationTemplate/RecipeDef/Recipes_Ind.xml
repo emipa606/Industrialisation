@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mine deep aluminium -->
+  <Ind_DeepMineAluminium.label>Mine deep aluminium</Ind_DeepMineAluminium.label>
+  <!-- EN: Mine deep aluminium. -->
+  <Ind_DeepMineAluminium.description>Mine deep aluminium.</Ind_DeepMineAluminium.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineAluminium.jobString>Mining at deep mine.</Ind_DeepMineAluminium.jobString>
+  <!-- EN: Mine deep granite chunk -->
+  <Ind_DeepMineChunkGranite.label>Mine deep granite chunk</Ind_DeepMineChunkGranite.label>
+  <!-- EN: Mine deep granite chunk. -->
+  <Ind_DeepMineChunkGranite.description>Mine deep granite chunk.</Ind_DeepMineChunkGranite.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineChunkGranite.jobString>Mining at deep mine.</Ind_DeepMineChunkGranite.jobString>
+  <!-- EN: Mine deep limestone chunk -->
+  <Ind_DeepMineChunkLimestone.label>Mine deep limestone chunk</Ind_DeepMineChunkLimestone.label>
+  <!-- EN: Mine deep limestone chunk. -->
+  <Ind_DeepMineChunkLimestone.description>Mine deep limestone chunk.</Ind_DeepMineChunkLimestone.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineChunkLimestone.jobString>Mining at deep mine.</Ind_DeepMineChunkLimestone.jobString>
+  <!-- EN: Mine deep marble chunk -->
+  <Ind_DeepMineChunkMarble.label>Mine deep marble chunk</Ind_DeepMineChunkMarble.label>
+  <!-- EN: Mine deep marble chunk. -->
+  <Ind_DeepMineChunkMarble.description>Mine deep marble chunk.</Ind_DeepMineChunkMarble.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineChunkMarble.jobString>Mining at deep mine.</Ind_DeepMineChunkMarble.jobString>
+  <!-- EN: Mine deep sandstone chunk -->
+  <Ind_DeepMineChunkSandstone.label>Mine deep sandstone chunk</Ind_DeepMineChunkSandstone.label>
+  <!-- EN: Mine deep sandstone chunk. -->
+  <Ind_DeepMineChunkSandstone.description>Mine deep sandstone chunk.</Ind_DeepMineChunkSandstone.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineChunkSandstone.jobString>Mining at deep mine.</Ind_DeepMineChunkSandstone.jobString>
+  <!-- EN: Mine deep slate chunk -->
+  <Ind_DeepMineChunkSlate.label>Mine deep slate chunk</Ind_DeepMineChunkSlate.label>
+  <!-- EN: Mine deep slate chunk. -->
+  <Ind_DeepMineChunkSlate.description>Mine deep slate chunk.</Ind_DeepMineChunkSlate.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineChunkSlate.jobString>Mining at deep mine.</Ind_DeepMineChunkSlate.jobString>
+  <!-- EN: Mine deep copper -->
+  <Ind_DeepMineCopper.label>Mine deep copper</Ind_DeepMineCopper.label>
+  <!-- EN: Mine deep copper. -->
+  <Ind_DeepMineCopper.description>Mine deep copper.</Ind_DeepMineCopper.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineCopper.jobString>Mining at deep mine.</Ind_DeepMineCopper.jobString>
+  <!-- EN: Mine deep gold -->
+  <Ind_DeepMineGold.label>Mine deep gold</Ind_DeepMineGold.label>
+  <!-- EN: Mine deep gold. -->
+  <Ind_DeepMineGold.description>Mine deep gold.</Ind_DeepMineGold.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineGold.jobString>Mining at deep mine.</Ind_DeepMineGold.jobString>
+  <!-- EN: Mine deep jade -->
+  <Ind_DeepMineJade.label>Mine deep jade</Ind_DeepMineJade.label>
+  <!-- EN: Mine deep jade. -->
+  <Ind_DeepMineJade.description>Mine deep jade.</Ind_DeepMineJade.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineJade.jobString>Mining at deep mine.</Ind_DeepMineJade.jobString>
+  <!-- EN: Mine deep plasteel -->
+  <Ind_DeepMinePlasteel.label>Mine deep plasteel</Ind_DeepMinePlasteel.label>
+  <!-- EN: Mine deep plasteel. -->
+  <Ind_DeepMinePlasteel.description>Mine deep plasteel.</Ind_DeepMinePlasteel.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMinePlasteel.jobString>Mining at deep mine.</Ind_DeepMinePlasteel.jobString>
+  <!-- EN: Mine deep silver -->
+  <Ind_DeepMineSilver.label>Mine deep silver</Ind_DeepMineSilver.label>
+  <!-- EN: Mine deep silver. -->
+  <Ind_DeepMineSilver.description>Mine deep silver.</Ind_DeepMineSilver.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineSilver.jobString>Mining at deep mine.</Ind_DeepMineSilver.jobString>
+  <!-- EN: Mine deep steel -->
+  <Ind_DeepMineSteel.label>Mine deep steel</Ind_DeepMineSteel.label>
+  <!-- EN: Mine deep steel. -->
+  <Ind_DeepMineSteel.description>Mine deep steel.</Ind_DeepMineSteel.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineSteel.jobString>Mining at deep mine.</Ind_DeepMineSteel.jobString>
+  <!-- EN: Mine deep uranium -->
+  <Ind_DeepMineUranium.label>Mine deep uranium</Ind_DeepMineUranium.label>
+  <!-- EN: Mine deep uranium. -->
+  <Ind_DeepMineUranium.description>Mine deep uranium.</Ind_DeepMineUranium.description>
+  <!-- EN: Mining at deep mine. -->
+  <Ind_DeepMineUranium.jobString>Mining at deep mine.</Ind_DeepMineUranium.jobString>
+  <!-- EN: produce concrete from stone chunk -->
+  <Ind_MakeConcreteFromAny.label>produce concrete from stone chunk</Ind_MakeConcreteFromAny.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromAny.description>turn stone chunks into concrete.</Ind_MakeConcreteFromAny.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromAny.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromAny.jobString>
+  <!-- EN: produce concrete from granite chunk -->
+  <Ind_MakeConcreteFromGranite.label>produce concrete from granite chunk</Ind_MakeConcreteFromGranite.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromGranite.description>turn stone chunks into concrete.</Ind_MakeConcreteFromGranite.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromGranite.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromGranite.jobString>
+  <!-- EN: produce concrete from limestone chunk -->
+  <Ind_MakeConcreteFromLimestone.label>produce concrete from limestone chunk</Ind_MakeConcreteFromLimestone.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromLimestone.description>turn stone chunks into concrete.</Ind_MakeConcreteFromLimestone.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromLimestone.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromLimestone.jobString>
+  <!-- EN: produce concrete from marble chunk -->
+  <Ind_MakeConcreteFromMarble.label>produce concrete from marble chunk</Ind_MakeConcreteFromMarble.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromMarble.description>turn stone chunks into concrete.</Ind_MakeConcreteFromMarble.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromMarble.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromMarble.jobString>
+  <!-- EN: produce concrete from sandstone chunk -->
+  <Ind_MakeConcreteFromSandstone.label>produce concrete from sandstone chunk</Ind_MakeConcreteFromSandstone.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromSandstone.description>turn stone chunks into concrete.</Ind_MakeConcreteFromSandstone.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromSandstone.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromSandstone.jobString>
+  <!-- EN: produce concrete from slate chunk -->
+  <Ind_MakeConcreteFromSlate.label>produce concrete from slate chunk</Ind_MakeConcreteFromSlate.label>
+  <!-- EN: turn stone chunks into concrete. -->
+  <Ind_MakeConcreteFromSlate.description>turn stone chunks into concrete.</Ind_MakeConcreteFromSlate.description>
+  <!-- EN: Producing concrete from stone chunk. -->
+  <Ind_MakeConcreteFromSlate.jobString>Producing concrete from stone chunk.</Ind_MakeConcreteFromSlate.jobString>
+  <!-- EN: poduce high-grade steel -->
+  <Ind_MakeHighGradeSteelEAF.label>poduce high-grade steel</Ind_MakeHighGradeSteelEAF.label>
+  <!-- EN: Producing high-grade steel from steel, using an electric arc furnace. -->
+  <Ind_MakeHighGradeSteelEAF.description>Producing high-grade steel from steel, using an electric arc furnace.</Ind_MakeHighGradeSteelEAF.description>
+  <!-- EN: Producing high-grade steel from steel. -->
+  <Ind_MakeHighGradeSteelEAF.jobString>Producing high-grade steel from steel.</Ind_MakeHighGradeSteelEAF.jobString>
+</LanguageData>

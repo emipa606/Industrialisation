@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Do bills at deep mine -->
+  <Ind_DoBillsDeepMine.label>Do bills at deep mine</Ind_DoBillsDeepMine.label>
+  <!-- EN: working at -->
+  <Ind_DoBillsDeepMine.gerund>working at</Ind_DoBillsDeepMine.gerund>
+  <!-- EN: work -->
+  <Ind_DoBillsDeepMine.verb>work</Ind_DoBillsDeepMine.verb>
+  <!-- EN: Do bills at electric arc furnace -->
+  <Ind_DoBillsElectricArcFurnace.label>Do bills at electric arc furnace</Ind_DoBillsElectricArcFurnace.label>
+  <!-- EN: working at -->
+  <Ind_DoBillsElectricArcFurnace.gerund>working at</Ind_DoBillsElectricArcFurnace.gerund>
+  <!-- EN: work -->
+  <Ind_DoBillsElectricArcFurnace.verb>work</Ind_DoBillsElectricArcFurnace.verb>
+  <!-- EN: Do bills at concrete mixer -->
+  <Ind_DoBillsMixconcrete.label>Do bills at concrete mixer</Ind_DoBillsMixconcrete.label>
+  <!-- EN: working at -->
+  <Ind_DoBillsMixconcrete.gerund>working at</Ind_DoBillsMixconcrete.gerund>
+  <!-- EN: work -->
+  <Ind_DoBillsMixconcrete.verb>work</Ind_DoBillsMixconcrete.verb>
+</LanguageData>

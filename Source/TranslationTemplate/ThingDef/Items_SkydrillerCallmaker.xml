@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mining hole -->
+  <Ind_MiningHole.label>mining hole</Ind_MiningHole.label>
+  <!-- EN: A mining hole. -->
+  <Ind_MiningHole.description>A mining hole.</Ind_MiningHole.description>
+  <!-- EN: Skydriller callmaker -->
+  <Ind_SkydrillerCallmaker.label>Skydriller callmaker</Ind_SkydrillerCallmaker.label>
+  <!-- EN: Summons the skydriller, a low orbit plasma driller.  The skydriller will fire a plasma beam on the coordinates of the callmaker, creating a deep mining hole and destroying the callmaker in the process. A colonist must be selected and ordered to active the callmaker. NOTE: The signal of the callmaker is blocked inside caves and structures so must be placed outside. -->
+  <Ind_SkydrillerCallmaker.description>Summons the skydriller, a low orbit plasma driller.  The skydriller will fire a plasma beam on the coordinates of the callmaker, creating a deep mining hole and destroying the callmaker in the process. A colonist must be selected and ordered to active the callmaker. NOTE: The signal of the callmaker is blocked inside caves and structures so must be placed outside.</Ind_SkydrillerCallmaker.description>
+  <!-- EN: Active skydriller callmaker -->
+  <Ind_SkydrillerCallmaker.comps.CompUsable.useLabel>Active skydriller callmaker</Ind_SkydrillerCallmaker.comps.CompUsable.useLabel>
+  <!-- EN: Skydriller callmaker (active) -->
+  <Ind_SkydrillerCallmaker_Calling.label>Skydriller callmaker (active)</Ind_SkydrillerCallmaker_Calling.label>
+  <!-- EN: Summons the skydriller, a low orbit plasma driller.  The skydriller will fire a plasma beam on the coordinates of the callmaker, creating a deep mining hole and destroying the callmaker in the process. A colonist must be selected and ordered to active the callmaker. NOTE: The signal of the callmaker is blocked inside caves and structures so must be placed outside. -->
+  <Ind_SkydrillerCallmaker_Calling.description>Summons the skydriller, a low orbit plasma driller.  The skydriller will fire a plasma beam on the coordinates of the callmaker, creating a deep mining hole and destroying the callmaker in the process. A colonist must be selected and ordered to active the callmaker. NOTE: The signal of the callmaker is blocked inside caves and structures so must be placed outside.</Ind_SkydrillerCallmaker_Calling.description>
+  <!-- EN: Skydriller drilling (active) -->
+  <Ind_SkydrillerCallmaker_Drilling.label>Skydriller drilling (active)</Ind_SkydrillerCallmaker_Drilling.label>
+  <!-- EN: Plasma drilling in progress.  Clear the area!!! -->
+  <Ind_SkydrillerCallmaker_Drilling.description>Plasma drilling in progress.  Clear the area!!!</Ind_SkydrillerCallmaker_Drilling.description>
+</LanguageData>
